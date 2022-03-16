@@ -1,0 +1,16 @@
+# Editor temporary files
+*.m~
+*.asv
+*.swp
+
+.DS_Store
+
+# Source files for the documentation
+*.tex
+*.aux
+*.log
+*.bbl
+*.gz
+*.out
+*.png
+Heat2D-figure.pdf
