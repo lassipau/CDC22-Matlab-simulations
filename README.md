@@ -1,6 +1,6 @@
 # Controller design and simulation for one and two-dimensional heat equations
 
-These codes contain the Matlab simulations in the manuscript "On robust regulation of PDEs: from abstract methods to PDE controllers" by Lassi Paunonen and Jukka-Pekka Humaloja, submitted to the Proceedings of the 61st IEEE Conference on Decision and Control, 2022.
+These codes contain the Matlab simulations in the manuscript "On robust regulation of PDEs: from abstract methods to PDE controllers" by Lassi Paunonen and Jukka-Pekka Humaloja, in the Proceedings of the 61st IEEE Conference on Decision and Control, 2022.
 
 The details of the mathematical models in the simulation examples are described in the file "Simulation-examples-documentation.pdf".
 
